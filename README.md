@@ -5,7 +5,7 @@
 
 - 👨‍💻 I provide web dev services & consulting on [https://shahx95.netlify.app/](https://shahx95.netlify.app/)
 
-- 📝 I write articles on [https://shahxcode.hashnode.dev/](https://shahxcode.hashnode.dev/)
+<!--- 📝 I write articles on [https://shahxcode.hashnode.dev/](https://shahxcode.hashnode.dev/)-->
 
 - 💬 Happy to talk about **javascript, react, node.js and tech in general**
 
