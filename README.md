@@ -15,7 +15,7 @@
 🤝🏼 - Open to opportunities and collaborations with startup founders, business owners, and product managers.  If you are looking for a developer that can help you in your company's journey, feel free to reach out to me. 
 
 
-## 🌐 Socials:
+## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahx95) [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://shahxcode.hashnode.dev/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/shahx95) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:helloshahx95@gmail.com)  
 
 # 💻 Tech Stack:
