@@ -8,7 +8,7 @@
 
 😍 - Passionate about business technology, startups, and e-commerce
 
-🤓 - 2+ years of experience in creating full-stack web applications and scalable solutions for complex problems
+🤓 - 3+ years of experience in creating full-stack web applications and scalable solutions for complex problems
 
 😄 - Always eager to learn new technologies and take on new challenges
 
